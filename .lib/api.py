@@ -48,7 +48,7 @@ class extra():
  ╚═╝  ╚═╝  ╩  {gr}o{cy}  ╩  ╚═╝
  
         {gr}Code By :
-  {gr}youtube.com/theunknon{nu}
+  {gr}youtube.com/MrHackerkd{nu}
 	            """)
 
 class main():
