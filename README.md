@@ -1,17 +1,4 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/th3unkn0n/OSI.IG/master/.lib/20191103_233944.jpg" width="300" height="120">
-</p>
-<p align="center"><img src="https://img.shields.io/badge/Version-1.2-brightgreen"></p>
-<p align="center">
-  <a href="https://github.com/th3unkn0n">
-    <img src="https://img.shields.io/github/followers/th3unkn0n?label=Follow&style=social">
-  </a>
-  <a href="https://github.com/MrHackerOfficial/ig-osi/stargazers">
-    <img src="https://img.shields.io/
-github.com/MrHackerOfficial/ig-osi?style=social">
-  </a>
-</p>
-<p align="center">
   Instagram Information Gathering 
 </p>
 
