@@ -6,12 +6,13 @@
   <a href="https://github.com/th3unkn0n">
     <img src="https://img.shields.io/github/followers/th3unkn0n?label=Follow&style=social">
   </a>
-  <a href="https://github.com/th3unkn0n/osi.ig/stargazers">
-    <img src="https://img.shields.io/github/stars/th3unkn0n/osi.ig?style=social">
+  <a href="https://github.com/MrHackerOfficial/ig-osi/stargazers">
+    <img src="https://img.shields.io/
+github.com/MrHackerOfficial/ig-osi?style=social">
   </a>
 </p>
 <p align="center">
-  Open Source Information Instagram
+  Instagram Information Gathering 
 </p>
 
 ---
@@ -39,11 +40,11 @@ from just looking at their profile
 
 ## • Usage
 
-`$ python3 main.py -u username`
+`$ python3 ig.py -u username`
 
-`$ python3 main.py -h`
+`$ python3 ig.py -h`
 
-`usage: main.py [-h] -u USERNAME [-p] [-s]`
+`usage: python3 ig.py [-h] -u USERNAME [-p] [-s]`
 
 `optional arguments:`
 
@@ -69,10 +70,10 @@ from just looking at their profile
   Follow Me On
 </p>
 <p align="center">
-  <a href="https://youtube.com/theunknon">
+  <a href="https://youtube.com/mrhackerkd">
     <img src="https://www.iconsdb.com/icons/preview/black/youtube-4-xxl.png" width="40" height="40">
   </a>
-  <a href="https://instagram.com/th3unkn0n">
+  <a href="https://instagram.com/mrhackerkd">
     <img src="http://clipart-library.com/images_k/instagram-png-transparent/instagram-png-transparent-16.png" width="40" height="40">
     </a>
 </p>
