@@ -34,7 +34,9 @@ from just looking at their profile
 
 `$ pkg install -y git`
 
-`$ git clone https://github.com/th3unkn0n/osi.ig.git && cd osi.ig`
+`$ git clone https://github.com/MrHackerOfficial/ig-osi 
+
+cd osi.ig`
 
 `$ chmod +x install.sh && ./install.sh`
 
